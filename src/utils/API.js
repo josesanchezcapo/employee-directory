@@ -1,9 +1,9 @@
 import axios from "axios";
 
 export default {
-  // Gets all users
+  // Gets employeess
   getUsers: function() {
 
-    return axios.get("https://randomuser.me/api/?results=200&nat=us");
+    return axios.get("https://randomuser.me/api/?results=50&nat=pr");
   }
 };
