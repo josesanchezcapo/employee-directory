@@ -1,9 +1,12 @@
 # Employee Directory in React
 
-![Screenshot](./readme_images/employee_directory.png)
-
 ## Live Version (Githubpages)
-    https://josesanchezcapo.github.io/employee-directory/
+https://josesanchezcapo.github.io/employee-directory/
+
+##
+![Screenshot](employee-directory.png)
+
+
 
 ## Overview
     The directory is created with react. The UI into components, mange component state and respond to
